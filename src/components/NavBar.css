@@ -1,0 +1,44 @@
+/* src/components/NavBar.css */
+.navbar {
+    background-color: #00ccff; /* Cambia el color de fondo de la barra de navegación */
+    padding: 1rem 0;
+  }
+  
+  .navbar-brand {
+    color:#00ccff; /* Cambia el color del texto del logo */
+    font-size: 1.5rem;
+  }
+  
+  .navbar-toggler-icon {
+    background-color: #ecf0f1; /* Cambia el color del icono del menú hamburguesa */
+  }
+  
+  .navbar-toggler {
+    border: none;
+  }
+  
+  .navbar-nav .nav-item .nav-link {
+    color: #00ccff; /* Cambia el color del texto de los enlaces de categorías */
+    font-weight: bold;
+  }
+  
+  .navbar-nav .nav-item .nav-link:hover {
+    color: #00ccff; /* Cambia el color del texto de los enlaces de categorías al pasar el ratón */
+  }
+  
+  .cart-widget {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+  }
+  
+  .cart-icon {
+    color: #00ccff; /* Cambia el color del ícono del carrito */
+    font-size: 1.2rem;
+    margin-right: 0.5rem;
+  }
+  
+  .badge {
+    background-color: #3cb1e7;
+  }
+  
